@@ -1,0 +1,22 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-BlizzardJourney.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Games\Unreal Projects\GGJ2021\GGJ2021_Practice\BlizzardJourney\Intermediate\Build\Win64\BlizzardJourneyEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\Games\Unreal Projects\GGJ2021\GGJ2021_Practice\BlizzardJourney\Intermediate\Build\Win64\UE4Editor\Development\BlizzardJourney\BlizzardJourney.cpp.obj"
+"D:\Games\Unreal Projects\GGJ2021\GGJ2021_Practice\BlizzardJourney\Intermediate\Build\Win64\UE4Editor\Development\BlizzardJourney\BlizzardJourneyCharacter.cpp.obj"
+"D:\Games\Unreal Projects\GGJ2021\GGJ2021_Practice\BlizzardJourney\Intermediate\Build\Win64\UE4Editor\Development\BlizzardJourney\BlizzardJourneyGameMode.cpp.obj"
+"D:\Games\Unreal Projects\GGJ2021\GGJ2021_Practice\BlizzardJourney\Intermediate\Build\Win64\UE4Editor\Development\BlizzardJourney\BlizzardJourneyHUD.cpp.obj"
+"D:\Games\Unreal Projects\GGJ2021\GGJ2021_Practice\BlizzardJourney\Intermediate\Build\Win64\UE4Editor\Development\BlizzardJourney\BlizzardJourneyProjectile.cpp.obj"
+"D:\Games\Unreal Projects\GGJ2021\GGJ2021_Practice\BlizzardJourney\Intermediate\Build\Win64\UE4Editor\Development\BlizzardJourney\BlizzardJourney.init.gen.cpp.obj"
+"D:\Games\Unreal Projects\GGJ2021\GGJ2021_Practice\BlizzardJourney\Intermediate\Build\Win64\UE4Editor\Development\BlizzardJourney\BlizzardJourneyCharacter.gen.cpp.obj"
+"D:\Games\Unreal Projects\GGJ2021\GGJ2021_Practice\BlizzardJourney\Intermediate\Build\Win64\UE4Editor\Development\BlizzardJourney\BlizzardJourneyGameMode.gen.cpp.obj"
+"D:\Games\Unreal Projects\GGJ2021\GGJ2021_Practice\BlizzardJourney\Intermediate\Build\Win64\UE4Editor\Development\BlizzardJourney\BlizzardJourneyHUD.gen.cpp.obj"
+"D:\Games\Unreal Projects\GGJ2021\GGJ2021_Practice\BlizzardJourney\Intermediate\Build\Win64\UE4Editor\Development\BlizzardJourney\BlizzardJourneyProjectile.gen.cpp.obj"
+"D:\Games\Unreal Projects\GGJ2021\GGJ2021_Practice\BlizzardJourney\Intermediate\Build\Win64\UE4Editor\Development\BlizzardJourney\Default.rc2.res"
+/OUT:"D:\Games\Unreal Projects\GGJ2021\GGJ2021_Practice\BlizzardJourney\Intermediate\Build\Win64\UE4Editor\Development\BlizzardJourney\UE4Editor-BlizzardJourney.lib"
+/INCLUDE:IMPLEMENT_MODULE_BlizzardJourney

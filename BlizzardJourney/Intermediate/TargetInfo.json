@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "BlizzardJourney",
+			"Path": "D:\\Games\\Unreal Projects\\GGJ2021\\GGJ2021_Practice\\BlizzardJourney\\Source\\BlizzardJourney.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "BlizzardJourneyEditor",
+			"Path": "D:\\Games\\Unreal Projects\\GGJ2021\\GGJ2021_Practice\\BlizzardJourney\\Source\\BlizzardJourneyEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

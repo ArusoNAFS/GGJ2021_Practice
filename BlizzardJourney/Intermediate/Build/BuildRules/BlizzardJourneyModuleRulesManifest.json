@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\Games\\Unreal Projects\\GGJ2021\\GGJ2021_Practice\\BlizzardJourney\\Source\\BlizzardJourney\\BlizzardJourney.Build.cs",
+		"D:\\Games\\Unreal Projects\\GGJ2021\\GGJ2021_Practice\\BlizzardJourney\\Source\\BlizzardJourney.Target.cs",
+		"D:\\Games\\Unreal Projects\\GGJ2021\\GGJ2021_Practice\\BlizzardJourney\\Source\\BlizzardJourneyEditor.Target.cs"
+	],
+	"EngineVersion": "4.25.4"
+}

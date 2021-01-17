@@ -1,0 +1,2 @@
+D:\Games\Unreal Projects\GGJ2021\GGJ2021_Practice\BlizzardJourney\Intermediate\Build\Win64\UE4Editor\Development\BlizzardJourney\Definitions.BlizzardJourney.h
+D:\Games\Unreal Projects\GGJ2021\GGJ2021_Practice\BlizzardJourney\Source\BlizzardJourney\BlizzardJourney.h
