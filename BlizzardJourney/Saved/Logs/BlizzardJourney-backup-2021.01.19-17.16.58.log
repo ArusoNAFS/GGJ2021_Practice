@@ -1,8 +1,8 @@
-﻿Log file open, 01/20/21 02:22:07
+﻿Log file open, 01/20/21 02:16:42
 LogInit: Display: Running engine for game: BlizzardJourney
 LogPlatformFile: Not using cached read wrapper
 LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
-LogStats: Stats thread started at 0.233486
+LogStats: Stats thread started at 1.580279
 LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
 LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +9:00, Platform Override: ''
 LogPluginManager: Mounting plugin Paper2D
@@ -120,6 +120,7 @@ LogPluginManager: Mounting plugin WebMMoviePlayer
 LogPluginManager: Mounting plugin WindowsMoviePlayer
 LogPluginManager: Mounting plugin ScreenshotTools
 Launching UnrealBuildTool... [D:/Games/Epic Games/UE_4.25/Engine/Binaries/DotNET/UnrealBuildTool.exe -Mode=QueryTargets -Project="D:/Documents/GitHub/GGJ2021_Practice/BlizzardJourney/BlizzardJourney.uproject" -Output="D:/Documents/GitHub/GGJ2021_Practice/BlizzardJourney/Intermediate/TargetInfo.json"]
+Launching UnrealBuildTool... [D:/Games/Epic Games/UE_4.25/Engine/Binaries/DotNET/UnrealBuildTool.exe -Mode=QueryTargets -Project="D:/Documents/GitHub/GGJ2021_Practice/BlizzardJourney/BlizzardJourney.uproject" -Output="D:/Documents/GitHub/GGJ2021_Practice/BlizzardJourney/Intermediate/TargetInfo.json"]
 LogInit: Warning: Incompatible or missing module: BlizzardJourney
 Running D:/Games/Epic Games/UE_4.25/Engine/Binaries/DotNET/UnrealBuildTool.exe Development Win64 -Project="D:/Documents/GitHub/GGJ2021_Practice/BlizzardJourney/BlizzardJourney.uproject" -TargetType=Editor -Progress -NoEngineChanges -NoHotReloadFromIDE
 WARNING: Visual Studio 2019 is installed, but is missing the C++ toolchain. Please verify that the "VC++ 2019 toolset" component is selected in the Visual Studio 2019 installation options.
@@ -152,4 +153,4 @@ LogModuleManager: Shutting down and abandoning module SandboxFile (6)
 LogModuleManager: Shutting down and abandoning module PakFile (4)
 LogModuleManager: Shutting down and abandoning module RSA (3)
 LogExit: Exiting.
-Log file closed, 01/20/21 02:22:19
+Log file closed, 01/20/21 02:16:58
